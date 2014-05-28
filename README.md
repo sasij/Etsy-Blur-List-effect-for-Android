@@ -42,7 +42,7 @@ After that, include in your layout the viewPager
         android:layout_height="match_parent">
         
         //
-        //Complete with yoour view
+        //Complete with your views
         //...
         
     </com.etsyblurlist.app.BlurScrollView>
