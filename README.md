@@ -2,7 +2,7 @@
 
 I like the Etsy app and I tried develop a similar effect to its blur-parallax effect when you enter in the detailed item view. I started my project when I read the Nicolas Pomepuy's post you can read [here](http://nicolaspomepuy.fr/blur-effect-for-android-design/).
 
-Also, I recorded a video you can wath [here](http://youtu.be/vf2K-W2hQlE)
+Also, I recorded a video that you can wath [here](http://youtu.be/vf2K-W2hQlE)
 
 ##Usage
 
@@ -93,7 +93,7 @@ private void generateBlurImage(final File blurredImage) {
 		}).start();
 ```
 
-The magic occurs when you scrolling up or down...
+The magic occurs when you scroll up or down...
 
 ```java
 
